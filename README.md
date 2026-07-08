@@ -4,18 +4,18 @@ Latest release: v2.0
 
 Download:
 
-https://github.com/brainok/smart-dicom-viewer-release/releases/latest/download/Smart-DICOM-Viewer.dmg
+https://github.com/brainok/smart-dicom-viewer-release/releases/latest/download/Smart-DICOM-Viewer-v2.0.dmg
 
 SHA-256:
 
 ```text
-a162d8e79e47f6414b29660278a575c22007e2da2a97e8b008d11caf4811bc65
+52cf1ca5f7d2b03c03106548ef8a3b6e83b20f2b98d7571fb86d3bfc71ac21e4
 ```
 
 The DMG is also stored in this repo at:
 
 ```text
-v2.0/Smart-DICOM-Viewer.dmg
+v2.0/Smart-DICOM-Viewer-v2.0.dmg
 ```
 
-This build is not notarized. On first launch, macOS may require right-clicking the app and choosing Open.
+This build is signed and notarized with Developer ID.
