@@ -1,6 +1,6 @@
 # Smart DICOM Viewer Release
 
-Latest release: v2.01
+Latest release: v2.02
 
 Download:
 
@@ -9,13 +9,13 @@ https://github.com/brainok/smart-dicom-viewer-release/releases/latest/download/S
 SHA-256:
 
 ```text
-ac31b63eb40966d2b063f006a259410442538b499883fe94ec08c0c821f6ac02
+5fe32b88484d67e8dce481bb173da8b216903c41426f0d2fc085fc48d4ae320f
 ```
 
 The DMG is also stored in this repo at:
 
 ```text
-v2.01/Smart-DICOM-Viewer.dmg
+v2.02/Smart-DICOM-Viewer.dmg
 ```
 
-This build is signed with Developer ID. It is not notarized.
+This build is ad-hoc signed. It is not notarized.
